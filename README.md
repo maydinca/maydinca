@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maydinca&theme=dark&hide_border=false)]<picture>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maydinca&theme=dark&hide_border=false)<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=maydinca&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
