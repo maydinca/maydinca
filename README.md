@@ -14,7 +14,10 @@
 
 
 
-👀 **************************         ✔ I’m currently working on Java ✔ I’m currently learning Seleniu         **************************************
- 
+✔ I’m currently learning Java
+✔ I’m currently learning Selenium  
+✔ I’m currently learning Cypress
+✔ I’m currently learning Appium
+✔ I’m currently learning SQL
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maydinca&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
