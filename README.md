@@ -5,7 +5,7 @@
 ✔ I’m currently learning Cypress ✔ I’m currently learning Appium 
 ✔ I’m currently learning SQL
 
-<img align="right" alt="GIF" src="https://github.com/maydinca/maydinca/blob/main/code.gif?raw=true" width="500" height="414"  />
+<img align="right" alt="GIF" src="https://github.com/maydinca/maydinca/blob/main/code.gif?raw=true" width="470" height="414"  />
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maydinca&theme=dark&hide_border=false)
 
@@ -24,16 +24,14 @@
 </picture>
 
 
-
 <br/>
-
-
 
 ## Hello, I'm Mehmet Ali
 
 I am trying to improve myself in the field of software. I’m interested in QA Test Engineer Backend Development
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maydinca&langs_count=8&&theme=dark&hide_border=false)](https://github.com/maydinca/github-readme-stats)
+
 <br>
 
 
@@ -53,10 +51,6 @@ I am trying to improve myself in the field of software. I’m interested in QA T
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;">
                         </a>
                    
-<a href="https://www.w3.org/html/" rel="nofollow">
-                            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;">
-                        </a>
-
 
 ### 📩 Connect with me:
 
