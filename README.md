@@ -43,6 +43,15 @@ I am trying to improve myself in the field of software. I’m interested in QA T
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;">
                         </a>
                         
+ <a href="https://www.selenium.dev/" rel="nofollow">
+                    <img src="https://github.com/maydinca/maydinca/blob/main/icons8-selenium.svg" alt="java" width="40" height="40" style="max-width: 100%;">
+                        </a>
+                        
+<a href="https://" rel="nofollow">
+                    <img src="https://github.com/maydinca/maydinca/blob/main/sql-icon.svg" alt="java" width="40" height="40" style="max-width: 100%;">
+                        </a>      
+                        
+                        
 <a href="https://www.javascript.com" rel="nofollow">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="java" width="40" height="40" style="max-width: 100%;">
                         </a>
