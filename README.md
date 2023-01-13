@@ -5,7 +5,7 @@
 ✔ I’m currently learning Cypress ✔ I’m currently learning Appium 
 ✔ I’m currently learning SQL
 
-<img align="right" alt="GIF" src="https://github.com/maydinca/maydinca/blob/main/code.gif?raw=true" width="470" height="414"  />
+<img align="right" alt="GIF" src="https://github.com/maydinca/maydinca/blob/main/code.gif?raw=true" width="400" height="414"  />
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maydinca&theme=dark&hide_border=false)
 
