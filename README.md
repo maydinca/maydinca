@@ -53,7 +53,7 @@ I am trying to improve myself in the field of software. I’m interested in QA T
                    
 ### 📩 Connect with me:
 
-<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://github.com/maydinca/maydinca/blob/main/iconmonstr-linkedin-3.svg" />
 <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />
 <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />
 
