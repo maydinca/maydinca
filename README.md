@@ -51,7 +51,6 @@ I am trying to improve myself in the field of software. I’m interested in QA T
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;">
                         </a>
                    
-
 ### 📩 Connect with me:
 
 <img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
