@@ -73,5 +73,3 @@ I am trying to improve myself in the field of software. I’m interested in QA T
 
 
 
-
-
