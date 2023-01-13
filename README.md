@@ -5,7 +5,7 @@
 ✔ I’m currently learning Cypress ✔ I’m currently learning Appium 
 ✔ I’m currently learning SQL
 
-<img align="right" alt="GIF" src="https://github.com/maydinca/maydinca/blob/main/code.gif?raw=true" width="350" height="414"  />
+<img align="right" alt="GIF" src="https://github.com/maydinca/maydinca/blob/main/repo/code.gif?raw=true" width="350" height="414"  />
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maydinca&theme=dark&hide_border=false)
 
@@ -44,11 +44,11 @@ I am trying to improve myself in the field of software. I’m interested in QA T
                         </a>
                         
  <a href="https://www.selenium.dev/" rel="nofollow">
-                    <img src="https://github.com/maydinca/maydinca/blob/main/icons8-selenium.svg" alt="java" width="40" height="40" style="max-width: 100%;">
+                    <img src="https://github.com/maydinca/maydinca/blob/main/repo/icons8-selenium.svg" alt="java" width="40" height="40" style="max-width: 100%;">
                         </a>
                         
 <a href="https://" rel="nofollow">
-                    <img src="https://github.com/maydinca/maydinca/blob/main/sql-icon.svg" alt="java" width="40" height="40" style="max-width: 100%;">
+                    <img src="https://github.com/maydinca/maydinca/blob/main/repo/sql-icon.svg" alt="java" width="40" height="40" style="max-width: 100%;">
                         </a>      
                         
                         
@@ -62,7 +62,7 @@ I am trying to improve myself in the field of software. I’m interested in QA T
                    
 ### 📩 Connect with me:
 
-<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://github.com/maydinca/maydinca/blob/main/iconmonstr-linkedin-3.svg" />
+<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://github.com/maydinca/maydinca/blob/main/repo/iconmonstr-linkedin-3.svg" />
 <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />
 <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />
 
