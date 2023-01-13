@@ -1,9 +1,8 @@
 # Hi there 👋  I'm Mehmet Ali
 
-## Working On 👨‍🎓
-✔ I’m currently learning Java ✔ I’m currently learning Selenium
-✔ I’m currently learning Cypress ✔ I’m currently learning Appium 
-✔ I’m currently learning SQL
+##  Currently Learning👨‍🎓
+✔ Java ✔ Selenium ✔ Cypress
+✔ Appium ✔ SQL   
 
 <img align="right" alt="GIF" src="https://github.com/maydinca/maydinca/blob/main/repo/code.gif?raw=true" width="350" height="414"  />
 
