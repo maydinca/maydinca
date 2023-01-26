@@ -10,7 +10,7 @@
 </h4> 
 
 <p align="center">
-🏫 Georgian College -Postgraduate Degree in Big Data Analytics
+🏫 Georgian College - Postgraduate Degree in Big Data Analytics
 </p>
 
 ##  Currently Learning👨‍🎓
