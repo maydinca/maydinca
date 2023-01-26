@@ -9,9 +9,9 @@
   I am trying to improve myself in the field of software. I’m interested in QA Test Engineer Backend Development
 </h4> 
 
-
-</br>
-
+<p align="center">
+🏫 Georgian College -Postgraduate Degree in Big Data Analytics
+</p>
 
 ##  Currently Learning👨‍🎓
 ✔ Java ✔ Selenium ✔ Cypress
