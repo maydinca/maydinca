@@ -1,10 +1,23 @@
-# Hi there 👋  I'm Mehmet Ali
+
+<p align="center">
+  <img width="450" height="300" src="https://user-images.githubusercontent.com/50720133/214767995-af6b465e-89cf-42f5-b4f9-92531f9b2589.gif">
+</p>
+
+
+<h3 align="center"> Hi there, I’m Mehmet Ali 👋</h3>
+  <h4 align="center">
+  I am trying to improve myself in the field of software. I’m interested in QA Test Engineer Backend Development
+</h4> 
+
+
+</br>
+
 
 ##  Currently Learning👨‍🎓
 ✔ Java ✔ Selenium ✔ Cypress
 ✔ Appium ✔ SQL   ✔ HTML && CSS
 
-<img align="right" alt="GIF" src="https://github.com/maydinca/maydinca/blob/main/repo/code.gif?raw=true" width="300" height="414"  />
+<img align="right" alt="GIF" src="https://github.com/maydinca/maydinca/blob/main/repo/code.gif?raw=true" width="450" height="414"  />
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maydinca&theme=dark&hide_border=false)
 
@@ -16,27 +29,25 @@
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maydinca&show_icons=false"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maydinca&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=maydinca&show_icons=false" />
 </picture>
 
-
 <br/>
 
-## Hello, I'm Mehmet Ali
 
-I am trying to improve myself in the field of software. I’m interested in QA Test Engineer Backend Development
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maydinca&langs_count=8&&theme=dark&hide_border=false)](https://github.com/maydinca/github-readme-stats)
-
-<br>
-
-
-<br>
-
-### 🔧 Languages and Tools:
+## Mostly used Language
+<div align="center">
+  <a rel="nofollow" href="https://github.com/maydinca/maydinca">
+    <img width="30%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maydinca&langs_count=8&&theme=dark&hide_border=false)](https://github.com/maydinca/github-readme-stats">
+    
+</br>
+</br>
+ 🔧Tools:
+</br>
+</br>
 
 <a href="https://www.java.com" rel="nofollow">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;">
@@ -58,17 +69,20 @@ I am trying to improve myself in the field of software. I’m interested in QA T
 <a href="https://www.python.org" rel="nofollow">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;">
                         </a>
-                   
-### 📩 Connect with me:
-
-<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://github.com/maydinca/maydinca/blob/main/repo/iconmonstr-linkedin-3.svg" />
-<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />
-<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />
+    
+  </a>
+</div>
 
 
-<br />
 
-
+<div align="right">
+  <a rel="nofollow" href="https://github.com/maydinca/maydinca">            
+📩 Connect with me:
+    <img align="right" alt="linkedin | LinkedIn" width="24px" src="https://github.com/maydinca/maydinca/blob/main/repo/iconmonstr-linkedin-3.svg" />
+    <img align="right" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />
+    <img align="right" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />
+</a>
+</div>
 
 
 
