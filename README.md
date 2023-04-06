@@ -81,7 +81,7 @@
   <a rel="nofollow" href="https://github.com/maydinca/maydinca"> 
                                                                <br>
 📩 Connect with me:
-    <img align="right" alt="linkedin | LinkedIn" width="24px" src="https://github.com/maydinca/maydinca/blob/main/repo/iconmonstr-linkedin-3.svg" />
+    <img align="right" alt="linkedin | LinkedIn" width="24px" src="https://github.com/maydinca/maydinca/blob/main/repo/Linkedin_icon.svg" />
     <img align="right" height="24" width="24" src="https://github.com/maydinca/maydinca/blob/main/repo/Instagram_logo_2016.svg" />
     <img align="right" height="24" width="24" src="https://github.com/maydinca/maydinca/blob/main/repo/Gmail_Icon_(2013-2020).svg" />
 </a>
