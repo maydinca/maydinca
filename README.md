@@ -22,7 +22,7 @@
 <img align="right" alt="GIF" src="https://github.com/maydinca/maydinca/blob/main/repo/code.gif?raw=true" width="300" height="420"  />
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maydinca&theme=dark&hide_border=false)
-<img align="right" alt="Coding" width="160" height="200" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
+
 
 <picture>
   <source 
@@ -39,16 +39,15 @@
 <br/>
 
 ## Mostly used Language
+<img align="right" alt="Coding" width="160" height="200" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 
-<div align="center">
-  <a rel="nofollow" href="https://github.com/maydinca/maydinca">
-    <img width="30%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maydinca&langs_count=8&&theme=dark&hide_border=false)](https://github.com/maydinca/github-readme-stats">
-    </a>
-</br>
 
-</br>
+<br/>
+  <div align="left">
  🔧Tools:
-</br>
+ 
+
+<div align="cneter>
 
 <a href="https://www.java.com" rel="nofollow">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;">
@@ -71,8 +70,13 @@
                         </a>
     
   </br>
-  </br>
 </div>
+
+
+<div align="left">
+  <a rel="nofollow" href="https://github.com/maydinca/maydinca">
+    <img width="30%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maydinca&langs_count=8&&theme=dark&hide_border=false)](https://github.com/maydinca/github-readme-stats">
+    </a>
 
 <div align="right">
   <a rel="nofollow" href="https://github.com/maydinca/maydinca">            
