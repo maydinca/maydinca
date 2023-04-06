@@ -83,6 +83,6 @@
 📩 Connect with me:
     <img align="right" alt="linkedin | LinkedIn" width="24px" src="https://github.com/maydinca/maydinca/blob/main/repo/iconmonstr-linkedin-3.svg" />
     <img align="right" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />
-    <img align="right" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />
+    <img align="right" height="24" width="24" src="https://github.com/maydinca/maydinca/blob/main/repo/Gmail_Icon_(2013-2020).svg" />
 </a>
 </div>
