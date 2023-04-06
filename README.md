@@ -17,11 +17,15 @@
 ✔ Java ✔ Selenium ✔ Cypress
 ✔ Appium ✔ SQL   ✔ HTML && CSS
 
-<img align="right" alt="GIF" src="https://github.com/maydinca/maydinca/blob/main/repo/code.gif?raw=true" width="335" height="414"  />
+<img align="right" alt="GIF" src="https://github.com/maydinca/maydinca/blob/main/repo/code.gif?raw=true" width="335" height="586"  />
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maydinca&theme=dark&hide_border=false)
+<img align="right" alt="Coding" width="160" height="200" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maydinca&label=Profile%20views&color=0e75b6&style=flat" alt="maydinca" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maydinca" alt="maydinca" /></a> </p>
 
+<img align="right" alt="Coding" width="210" height="200" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 
 <picture>
 <source 
@@ -35,7 +39,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=maydinca&show_icons=false" />
 </picture>
 
+
 <br/>
+
+
 
 
 ## Mostly used Language
