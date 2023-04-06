@@ -40,15 +40,15 @@
 
 ## Mostly used Language
 <img align="right" alt="Coding" width="160" height="200" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
-
-
 <br/>
   <div align="left">
+  <br/>
+  
  🔧Tools:
- 
-
+  <br>
 <div align="cneter>
-
+            <br/>
+           
 <a href="https://www.java.com" rel="nofollow">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;">
                         </a>
@@ -83,7 +83,8 @@
     </a>
 
 <div align="right">
-  <a rel="nofollow" href="https://github.com/maydinca/maydinca">            
+  <a rel="nofollow" href="https://github.com/maydinca/maydinca"> 
+                                                               <br>
 📩 Connect with me:
     <img align="right" alt="linkedin | LinkedIn" width="24px" src="https://github.com/maydinca/maydinca/blob/main/repo/iconmonstr-linkedin-3.svg" />
     <img align="right" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />
