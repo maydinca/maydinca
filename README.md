@@ -39,10 +39,12 @@
 <br/>
 
 ## Mostly used Language
+
 <img align="right" alt="Coding" width="160" height="200" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
-<br/>
+</picture>
+<br>
   <div align="left">
-  <br/>  
+  <br/> 
  🔧Tools:
   <br>
 <div align="cneter>
@@ -76,13 +78,18 @@
   <a rel="nofollow" href="https://github.com/maydinca/maydinca">
     <img width="30%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maydinca&langs_count=8&&theme=dark&hide_border=false)](https://github.com/maydinca/github-readme-stats">
     </a>
+    </div>
 
 <div align="right">
   <a rel="nofollow" href="https://github.com/maydinca/maydinca"> 
-                                                               <br>
+                        </a>                                                           
+   <br>
+ </div>
+    <div align="center">
 📩 Connect with me:
-    <img align="right" alt="linkedin | LinkedIn" width="24px" src="https://github.com/maydinca/maydinca/blob/main/repo/Linkedin_circle.svg" />
-    <img align="right" height="24" width="24" src="https://github.com/maydinca/maydinca/blob/main/repo/Instagram_logo_2016.svg" />
-    <img align="right" height="24" width="24" src="https://github.com/maydinca/maydinca/blob/main/repo/Gmail_Icon_(2013-2020).svg" />
+ <a>
+    <img align="center" alt="linkedin | LinkedIn" width="24px" src="https://github.com/maydinca/maydinca/blob/main/repo/Linkedin_circle.svg" />
+    <img align="center" height="24" width="24" src="https://github.com/maydinca/maydinca/blob/main/repo/Instagram_logo_2016.svg" />
+    <img align="center" height="24" width="24" src="https://github.com/maydinca/maydinca/blob/main/repo/Gmail_Icon_(2013-2020).svg" />
 </a>
 </div>
