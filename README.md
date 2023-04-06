@@ -17,7 +17,7 @@
 ✔ Java ✔ Selenium ✔ Cypress
 ✔ Appium ✔ SQL   ✔ HTML && CSS
 
-<img align="right" alt="GIF" src="https://github.com/maydinca/maydinca/blob/main/repo/code.gif?raw=true" width="330" height="586"  />
+<img align="right" alt="GIF" src="https://github.com/maydinca/maydinca/blob/main/repo/code.gif?raw=true" width="300" height="586"  />
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maydinca&theme=dark&hide_border=false)
 <img align="right" alt="Coding" width="160" height="200" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
