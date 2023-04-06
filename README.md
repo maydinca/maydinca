@@ -42,8 +42,7 @@
 <img align="right" alt="Coding" width="160" height="200" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 <br/>
   <div align="left">
-  <br/>
-  
+  <br/>  
  🔧Tools:
   <br>
 <div align="cneter>
@@ -70,12 +69,8 @@
                         </a>
     
   </br>
-  
-  
+    
 </div>
-
-
-
 
 <div align="left">
   <a rel="nofollow" href="https://github.com/maydinca/maydinca">
