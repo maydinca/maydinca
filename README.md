@@ -24,9 +24,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maydinca&theme=dark&hide_border=false)
 <img align="right" alt="Coding" width="160" height="200" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 
-
-<img align="right" alt="Coding" width="210" height="200" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
-
 <picture>
   <source 
     srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maydinca&show_icons=true&theme=dark"
