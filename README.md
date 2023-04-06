@@ -6,22 +6,24 @@
 <h4 align="center">I am trying to improve myself in the field of software. I’m interested in QA Test Engineer Backend Development</h4> 
 
 <p align="center">🏫 Georgian College - Postgraduate Degree in Big Data Analytics</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maydinca&label=Profile%20views&color=0e75b6&style=flat" alt="maydinca" />
+</p>
 
 ##  Currently Learning👨‍🎓
 ✔ Java ✔ Selenium ✔ Cypress
 ✔ Appium ✔ SQL   ✔ HTML && CSS
 
-<img align="right" alt="GIF" src="https://github.com/maydinca/maydinca/blob/main/repo/code.gif?raw=true" width="300" height="586"  />
+<a href="https://github.com/maydinca/readme"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/maydinca/readme">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=maydinca&column=8&theme=gruvbox&no-frame=true"/>
+</a>
+
+<img align="right" alt="GIF" src="https://github.com/maydinca/maydinca/blob/main/repo/code.gif?raw=true" width="300" height="420"  />
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maydinca&theme=dark&hide_border=false)
 <img align="right" alt="Coding" width="160" height="200" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=maydinca&label=Profile%20views&color=0e75b6&style=flat" alt="maydinca" />
-</p>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maydinca" alt="maydinca" /></a>
-</p>
 
 <img align="right" alt="Coding" width="210" height="200" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 
@@ -44,11 +46,11 @@
 <div align="center">
   <a rel="nofollow" href="https://github.com/maydinca/maydinca">
     <img width="30%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maydinca&langs_count=8&&theme=dark&hide_border=false)](https://github.com/maydinca/github-readme-stats">
-    
+    </a>
 </br>
+
 </br>
  🔧Tools:
-</br>
 </br>
 
 <a href="https://www.java.com" rel="nofollow">
