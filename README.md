@@ -57,38 +57,32 @@
 </br>
 
 <a href="https://www.java.com" rel="nofollow">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;">
-                        </a>
-                        
- <a href="https://www.selenium.dev/" rel="nofollow">
-                    <img src="https://github.com/maydinca/maydinca/blob/main/repo/icons8-selenium.svg" alt="java" width="40" height="40" style="max-width: 100%;">
-                        </a>
-                        
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;">
+</a>
+
+<a href="https://www.selenium.dev/" rel="nofollow">
+    <img src="https://github.com/maydinca/maydinca/blob/main/repo/icons8-selenium.svg" alt="java" width="40" height="40" style="max-width: 100%;">
+</a>
+
 <a href="https://" rel="nofollow">
-                    <img src="https://github.com/maydinca/maydinca/blob/main/repo/sql-icon.svg" alt="java" width="40" height="40" style="max-width: 100%;">
-                        </a>      
-                        
-                        
+    <img src="https://github.com/maydinca/maydinca/blob/main/repo/sql-icon.svg" alt="java" width="40" height="40" style="max-width: 100%;">
+</a>      
+
 <a href="https://www.javascript.com" rel="nofollow">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="java" width="40" height="40" style="max-width: 100%;">
-                        </a>
-                       
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="java" width="40" height="40" style="max-width: 100%;">
+</a>
+
 <a href="https://www.python.org" rel="nofollow">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;">
-                        </a>
-    
-  </a>
-</div>
-
-
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;">
+</a>
 
 <div align="right">
-  <a rel="nofollow" href="https://github.com/maydinca/maydinca">            
-📩 Connect with me:
-    <img align="right" alt="linkedin | LinkedIn" width="24px" src="https://github.com/maydinca/maydinca/blob/main/repo/iconmonstr-linkedin-3.svg" />
-    <img align="right" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />
-    <img align="right" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />
-</a>
+    <a rel="nofollow" href="https://github.com/maydinca/maydinca">            
+        📩 Connect with me:
+        <img align="right" alt="linkedin | LinkedIn" width="24px" src="https://github.com/maydinca/maydinca/blob/main/repo/iconmonstr-linkedin-3.svg" />
+        <img align="right" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />
+        <img align="right" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />
+    </a>
 </div>
 
 
