@@ -35,18 +35,13 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=maydinca&show_icons=false" />
 </picture>
-
 <br/>
 
 ## Mostly used Language
-
 <img align="right" alt="Coding" width="160" height="200" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 </picture>
-  <div align="left">
- 🔧Tools:
-  <br>
-<div align="cneter>
-            <br/>
+  <h3 align="left"> 🔧Tools </h3>
+
            
 <a href="https://www.java.com" rel="nofollow">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;">
