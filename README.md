@@ -42,9 +42,7 @@
 
 <img align="right" alt="Coding" width="160" height="200" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 </picture>
-<br>
   <div align="left">
-  <br/> 
  🔧Tools:
   <br>
 <div align="cneter>
