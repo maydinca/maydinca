@@ -12,7 +12,7 @@
 
 ##  Currently Learning👨‍🎓
 ✔ Java ✔ Selenium ✔ Cypress
-✔ Appium ✔ SQL   ✔ HTML && CSS
+✔ Appium ✔ SQL   ✔ HTML & CSS
 
 <a href="https://github.com/maydinca/readme"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/maydinca/readme">
